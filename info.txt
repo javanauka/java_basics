@@ -1,1 +1,2 @@
 plik do testow w git
+modyfikowane przez zolty
